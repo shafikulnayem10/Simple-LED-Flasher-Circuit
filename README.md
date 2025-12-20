@@ -25,8 +25,6 @@ The circuit uses two **BC547 NPN transistors** in an **astable multivibrator** c
 
 ## Project Type
 
-IEC Lab – Academic Project
+IEC Lab Course – Academic Project
 
----
 
-If you want a **one-liner README** or a **badge-style GitHub README**, say the word 😄
